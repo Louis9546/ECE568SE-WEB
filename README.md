@@ -1,5 +1,6 @@
 # ECE Rutgers 16:332:568 Software Engineering of Web Applications - Spring 2018
------------------------------------------------------------------------------------------------ Developed By:
+----------------------------------------------------------------------------------------------- 
+Developed By:
 Ze liu Tong Wu Xinyu Lyu Xinwei Zhao Jay Borkar
 
 For the “design” file, it is our UML diagrams. For the “code” file, it contains our back-end files. Such as the Python inside the “code” file, it contains flask, ANN predictor, LSTM predictor, SVM predictor and the Indicator function. Flask is used to do the registration and login in. When user want to apply for a new account, we will save his Email and corresponding password into the MySQL table: “user”. And also create a table using the email of user to save the company he/she like. The Java file contains Bayesian Curve Fitting predictor and the Web Service. It also contains the whole project of the web service. Below is the description of our web service.
