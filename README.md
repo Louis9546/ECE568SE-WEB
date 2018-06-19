@@ -1,5 +1,5 @@
 # ECE Rutgers 16:332:568 Software Engineering of Web Applications - Spring 2018
------------------------------------------------------------------------------------------------ 
+
 Developed By:
 Ze liu Tong Wu Xinyu Lyu Xinwei Zhao Jay Borkar
 
